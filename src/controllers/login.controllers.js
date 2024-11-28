@@ -68,11 +68,29 @@ const staffLogin = async (req, res) => {
       .status(constants.status_unauthorized)
       .json(responseFormater.unAuthRes(result.data, 'invalid usertype'));
   }
-  return res
-        .status(constants.status_success)
-        .json(responseFormater.successRes(result.data, 'Login Success'));
-    
+  if (result.login === true) {
+    const id = result.data;
+    const userType = result.data;
+    const empName = result.data;
 
+    const jwtInfo = {
+      id: id[0].id,
+      userType: userType[0].userType,
+    };
+
+    const token = jwt.sign({ ...jwtInfo }, config.JWTSECRET);
+    const data = {
+      token,
+      userType: userType[0].userType,
+      id: id[0].id,
+      empName: empName[0].empName,
+    };
+  
+    return res
+      .status(constants.status_success)
+      .json(responseFormater.successRes(result.data, 'Login Success'));
+    
+  }
 }
 
 const supervisorLogin = async (req, res) => {
@@ -95,9 +113,29 @@ const supervisorLogin = async (req, res) => {
       .status(constants.status_unauthorized)
       .json(responseFormater.unAuthRes(result.data, 'invalid usertype'));
   }
-  return res
-        .status(constants.status_success)
-        .json(responseFormater.successRes(result.data, 'Login Success'));
+  if (result.login === true) {
+    const id = result.data;
+    const userType = result.data;
+    const empName = result.data;
+
+    const jwtInfo = {
+      id: id[0].id,
+      userType: userType[0].userType,
+    };
+
+    const token = jwt.sign({ ...jwtInfo }, config.JWTSECRET);
+    const data = {
+      token,
+      userType: userType[0].userType,
+      id: id[0].id,
+      empName: empName[0].empName,
+    };
+  
+    return res
+      .status(constants.status_success)
+      .json(responseFormater.successRes(result.data, 'Login Success'));
+    
+  }
     
 
 }
