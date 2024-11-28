@@ -11,3 +11,56 @@ constants,bycrypting,jwt verification etc... are seperated.
 
 
 db schema has been added to src/db/schema.sql file
+
+-----------apis with payload for testing------
+http://localhost:9001/master/login/masterLogin ---------post----------jwt
+{
+    "empUserName":"44444",
+    "password":"44444",
+    "userType":"admin"
+}
+
+
+http://localhost:9001/master/register/createStaff ---post-------jwt
+
+{
+    "empUserName":"11111",
+    "password":"11111",
+    "userType":"staff"
+}
+
+
+
+http://localhost:9001/supervisor/login/supervisorLogin-------post-----jwt
+{
+    "empUserName":"22222",
+    "password":"22222",
+    "userType":"supervisor"
+}
+
+
+http://localhost:9001/staff/login/staffLogin---post----jwt
+{
+    "empUserName":"11111",
+    "password":"11111",
+    "userType":"staff"
+}
+
+
+http://localhost:9001/supervisor/store/createStore----post---  jwt
+
+{
+    "storeNo":"s1",
+    "storeName":"zudio",
+    "area":"dubai"
+}
+
+http://localhost:9001/supervisor/store/updateStore----post---  jwt
+
+{
+    "storeNo":"s1",
+    "storeName":"zudio",
+    "area":"dubai"
+}
+
+http://localhost:9001/supervisor/store/listallStore---get---jwt
