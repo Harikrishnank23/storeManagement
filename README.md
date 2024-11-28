@@ -8,3 +8,6 @@ All api calls are logged in a logger table.
 All error messages during api calls are logged in loggerException table to make debugging easy
 mvc pattern is used in code structuring.
 constants,bycrypting,jwt verification etc... are seperated.
+
+
+db schema has been added to src/db/schema.sql file
