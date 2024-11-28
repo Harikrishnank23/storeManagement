@@ -1,0 +1,30 @@
+{
+  "name": "backend_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix .",
+    "st:master": "nodemon src/master.js",
+    "st:server": "nodemon src/server.js",
+    "st:staff": "nodemon src/staff.js",
+    "st:supervisor": "nodemon src/supervisor.js",
+    "start": "concurrently \"npm:st:*\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "concurrently": "^9.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "fast-gateway": "^3.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7",
+    "winston": "^3.17.0"
+  }
+}

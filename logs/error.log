@@ -1,0 +1,209 @@
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'field list'\"}","timestamp":"2024-11-27T06:42:29.124Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:06:05.905Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'field list'\"}","timestamp":"2024-11-27T07:06:05.908Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:10:31.984Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'field list'\"}","timestamp":"2024-11-27T07:10:31.988Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/staffLogin?\"}","timestamp":"2024-11-27T07:16:40.559Z"}
+{"level":"error","message":"{\"expose\":true,\"statusCode\":400,\"status\":400,\"body\":\"{\\r\\n    \\\"empUserName\\\":\\\"master\\\",\\r\\n    \\\"password\\\":$2y$10$\\\"9N97uzoAuguqR72yNVawBe5ZGTCZO3XeWLRYwVqCuenIwX3wk6Wxq\\\"\\r\\n}\",\"type\":\"entity.parse.failed\"}","timestamp":"2024-11-27T07:16:40.560Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:16:57.397Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'field list'\"}","timestamp":"2024-11-27T07:16:57.402Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:17:36.033Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'field list'\"}","timestamp":"2024-11-27T07:17:36.037Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:18:13.114Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUsrName' in 'where clause'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUserName, password, userType FROM loginCredentials\\n           WHERE empUsrName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUsrName' in 'where clause'\"}","timestamp":"2024-11-27T07:18:13.117Z"}
+{"level":"error","message":"Table 'ddflogbookmodel.logger' doesn't exist","timestamp":"2024-11-27T07:18:29.399Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:18:29.409Z"}
+{"level":"error","message":"Unknown column 'data' in 'field list'","timestamp":"2024-11-27T07:21:10.056Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:21:10.062Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:27:08.938Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:27:36.559Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:35:23.951Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:36:20.523Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:37:06.554Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:39:56.604Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:40:33.209Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:42:19.959Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T07:43:24.712Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:26:53.876Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:28:55.966Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:29:23.467Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:29:45.511Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:30:15.199Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T08:31:04.688Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'empUserName' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUserName, password, userType FROM loginCredentials\\n           WHERE empUserName = 'master' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'empUserName' in 'field list'\"}","timestamp":"2024-11-27T09:41:53.810Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:42:24.258Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:44:08.699Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:44:25.051Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:45:09.654Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:47:31.478Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:49:34.651Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:49:46.938Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:49:57.636Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:51:09.438Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:54:55.438Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:58:02.894Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:58:31.103Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T09:59:12.042Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T10:00:36.869Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T10:57:55.918Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T10:57:55.918Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T10:58:49.566Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T10:58:49.566Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T10:59:42.230Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T10:59:42.230Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:00:08.914Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:00:08.914Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:01:03.853Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:01:03.853Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:01:23.165Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:01:23.166Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:03:38.881Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:03:38.882Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:03:53.411Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:03:53.411Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:07:50.254Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:07:50.254Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:08:03.895Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:08:03.895Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:09:20.142Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:11:38.057Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:11:38.058Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:11:38.059Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:11:59.930Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:11:59.933Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:11:59.933Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:12:54.252Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:12:54.255Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:12:54.255Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:13:31.052Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:13:31.053Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:13:31.053Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:13:49.726Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:13:49.727Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:13:49.728Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:14:31.458Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:14:31.460Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:14:31.460Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:14:57.041Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:14:57.042Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:14:57.043Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:15:47.991Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:15:47.993Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:15:47.994Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:16:57.733Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:16:57.734Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:16:57.734Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T11:17:41.519Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T11:17:41.519Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:27:40.860Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:27:40.861Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:31:58.554Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:31:58.554Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:36:10.452Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:36:10.452Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:39:12.484Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:39:12.485Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:42:40.026Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:42:40.027Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:49:19.723Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:49:19.724Z"}
+{"level":"error","message":"{\"message\":\"Duplicate entry '1' for key 'PRIMARY'\",\"code\":\"ER_DUP_ENTRY\",\"errno\":1062,\"sql\":\"INSERT INTO loginCredentials (id,empUsrName, password) VALUES (1,44440,'$2b$12$iZBkOaZkzbSUYazLftMVse6BSIR7oMOFcJ0ADtz4i3QUGxL8O/hGC')\",\"sqlState\":\"23000\",\"sqlMessage\":\"Duplicate entry '1' for key 'PRIMARY'\"}","timestamp":"2024-11-27T12:52:51.456Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:53:22.362Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:53:22.363Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:55:35.666Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:55:35.667Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:58:41.215Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:58:41.217Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T12:59:50.278Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T12:59:50.279Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/staffRegister?\"}","timestamp":"2024-11-27T13:00:23.486Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T13:00:23.487Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T16:58:57.527Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"INSERT INTO loginCredentials (empUsrName, password) VALUES ('44448',)\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1\"}","timestamp":"2024-11-27T17:10:37.727Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T17:26:10.825Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T17:27:39.076Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T17:36:16.896Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/createStaff?\"}","timestamp":"2024-11-27T17:58:44.360Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T17:58:44.361Z"}
+{"level":"error","message":"{\"apiName\":\"POST/register/createStaff?\"}","timestamp":"2024-11-27T17:59:58.748Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T17:59:58.748Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = '11111' AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-27T18:08:48.617Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = '44444' AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-27T18:09:02.757Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:31:18.622Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/staffLogin?\"}","timestamp":"2024-11-27T18:31:18.623Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:31:18.623Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:35:48.649Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/staffLogin?\"}","timestamp":"2024-11-27T18:35:48.650Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:35:48.650Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:36:26.066Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/staffLogin?\"}","timestamp":"2024-11-27T18:36:26.067Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:36:26.067Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:38:07.551Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/staffLogin?\"}","timestamp":"2024-11-27T18:38:07.555Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:38:07.555Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:40:46.980Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:43:22.627Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:44:12.354Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:44:40.486Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:45:23.258Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:47:01.410Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:47:56.174Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T18:51:55.159Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T19:12:39.668Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'useType' in 'where clause'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n         WHERE empUsrName = '11111' AND useType='supervisor' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'useType' in 'where clause'\"}","timestamp":"2024-11-27T19:25:16.530Z"}
+{"level":"error","message":"{\"message\":\"Unknown column 'useType' in 'where clause'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n         WHERE empUsrName = '11111' AND useType='supervisor' AND isDelete = 0\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'useType' in 'where clause'\"}","timestamp":"2024-11-27T19:26:46.279Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T19:27:15.033Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-27T19:30:57.044Z"}
+{"level":"error","message":"JWT Invalid Error - {\"name\":\"JsonWebTokenError\",\"message\":\"invalid token\"}","timestamp":"2024-11-28T05:32:37.109Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(storeNo,storeName,area) VALUES ('s1','trends','dubai')' at line 1\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"UPDATE store  SET (storeNo,storeName,area) VALUES ('s1','trends','dubai')\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(storeNo,storeName,area) VALUES ('s1','trends','dubai')' at line 1\"}","timestamp":"2024-11-28T05:46:03.231Z"}
+{"level":"error","message":"{\"apiName\":\"PUT/store/updateStore?\"}","timestamp":"2024-11-28T05:49:13.513Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T05:49:13.514Z"}
+{"level":"error","message":"{\"apiName\":\"PUT/store/updateStore?\"}","timestamp":"2024-11-28T05:51:36.395Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T05:51:36.396Z"}
+{"level":"error","message":"{\"apiName\":\"GET/store/listallStore?\"}","timestamp":"2024-11-28T06:48:01.428Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T06:48:01.428Z"}
+{"level":"error","message":"{\"apiName\":\"GET/store/listallStore?\"}","timestamp":"2024-11-28T06:48:55.037Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T06:48:55.038Z"}
+{"level":"error","message":"{\"apiName\":\"PUT/store/updateStore?\"}","timestamp":"2024-11-28T06:58:04.942Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T06:58:04.942Z"}
+{"level":"error","message":"{\"apiName\":\"PUT/store/updateStore?\"}","timestamp":"2024-11-28T06:59:06.432Z"}
+{"level":"error","message":"{\"code\":\"ERR_HTTP_INVALID_STATUS_CODE\"}","timestamp":"2024-11-28T06:59:06.432Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:32:02.429Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:32:56.224Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:35:09.387Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = ? AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T08:38:53.468Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:38:53.469Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:38:53.470Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = ? AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T08:42:21.897Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:42:21.898Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:42:21.898Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = ? AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T08:44:09.511Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:44:09.512Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:44:09.513Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = ? AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T08:44:59.469Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:44:59.471Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:44:59.471Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n           WHERE empUsrName = ? AND userType=? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND userType=? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T08:45:29.012Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:45:29.014Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:45:29.014Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:47:52.902Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:47:52.905Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:47:52.906Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:48:50.261Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:48:50.262Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:48:50.262Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:49:33.671Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:49:33.674Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:49:33.675Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:49:48.434Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:49:48.436Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:49:48.437Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:50:16.092Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:50:16.093Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:50:16.093Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:50:36.412Z"}
+{"level":"error","message":"{\"apiName\":\"POST/login/masterLogin?\"}","timestamp":"2024-11-28T08:50:36.423Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:50:36.425Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:51:10.295Z"}
+{"level":"error","message":"{}","timestamp":"2024-11-28T08:51:52.154Z"}
+{"level":"error","message":"{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"SELECT  id, empUsrName, password, userType FROM loginCredentials\\n         WHERE empUsrName = ? AND isDelete = 0\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND isDelete = 0' at line 2\"}","timestamp":"2024-11-28T09:13:50.240Z"}
